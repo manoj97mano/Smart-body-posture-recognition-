@@ -19,8 +19,8 @@ posture of an individual and gives them the right posture for calculating the bl
 ## Back end
   Back end module gets the data set from Open CVand compares the image with the present  image captured by he web cammea ,If the present image and the image in the data set matches it displays  the accurate results.If the present image and the data set image does not match it provide suggestions to have the correct posture.
  ## Project Status
- -posture module[80% completed]
- -result module[70% completed]
- -backend[75% completed]
+ - posture module[80% completed]
+ - result module[70% completed]
+ - backend[75% completed]
  ## Pending works
- -result module[comparison of images]
+ - result module[comparison of images]
