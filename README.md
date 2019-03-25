@@ -21,6 +21,6 @@ posture of an individual and gives them the right posture for calculating the bl
  ## Project Status
  - posture module[80% completed]
  - result module[70% completed]
- - backend[75% completed]
+ - backend[65% completed]
  ## Pending works
  - result module[comparison of images]
