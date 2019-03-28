@@ -20,3 +20,4 @@
  - Backend[65% completed]
  ## Pending works
  - Result module[comparison of images]
+.
